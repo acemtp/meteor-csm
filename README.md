@@ -1,6 +1,6 @@
 # meteor-csm
 
-Organize files in module structure.
+`csm` stands for *Client Server Module*. Organize files in a modular way.
 
 If you like to have all files related to a feature inside the same directory, you can use this package.
 
