@@ -4,8 +4,8 @@
 
 If you like to have all files related to a feature inside the same directory, you can use this package.
 
-- `.c.js` will be sent *only* to the client
-- `.s.js` will be sent *only* to the server
+- `.c.js` and `.client.js` will be sent *only* to the client
+- `.s.js` and `.server.js` will be sent *only* to the server
 
 ## Example
 
